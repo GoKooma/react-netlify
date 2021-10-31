@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Test continous deployment in Netlify
+          Test continous deployment in Netlify - it worked!
         </p>
         <a
           className="App-link"
